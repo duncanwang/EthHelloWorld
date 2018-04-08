@@ -1,0 +1,51 @@
+INFO [04-03|19:58:56] Maximum peer count                       ETH=25 LES=0 total=25
+INFO [04-03|19:58:59] Using developer account                  address=0xF4861c020F6B253C8BC02dFEd88124504eAEC099
+INFO [04-03|19:58:59] Starting peer-to-peer node               instance=Geth/v1.8.2-stable-b8b9f7f4/linux-386/go1.9.4
+INFO [04-03|19:58:59] Allocated cache and file handles         database=/usr/work/HelloWorld/testNet/geth/chaindata cache=768 handles=512
+INFO [04-03|19:58:59] Writing custom genesis block 
+INFO [04-03|19:58:59] Persisted trie from memory database      nodes=11 size=2.17kB time=118.403µs gcnodes=0 gcsize=0.00B gctime=0s livenodes=1 livesize=0.00B
+INFO [04-03|19:58:59] Initialised chain configuration          config="{ChainID: 1337 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: 0 EIP155: 0 EIP158: 0 Byzantium: 0 Constantinople: <nil> Engine: clique}"
+INFO [04-03|19:58:59] Initialising Ethereum protocol           versions="[63 62]" network=1
+INFO [04-03|19:58:59] Loaded most recent local header          number=0 hash=0bf2b0…4aed38 td=1
+INFO [04-03|19:58:59] Loaded most recent local full block      number=0 hash=0bf2b0…4aed38 td=1
+INFO [04-03|19:58:59] Loaded most recent local fast block      number=0 hash=0bf2b0…4aed38 td=1
+INFO [04-03|19:58:59] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [04-03|19:58:59] Starting P2P networking 
+INFO [04-03|19:58:59] started whisper v.5.0 
+INFO [04-03|19:58:59] Transaction pool price threshold updated price=18000000000
+INFO [04-03|19:58:59] Etherbase automatically configured       address=0xF4861c020F6B253C8BC02dFEd88124504eAEC099
+INFO [04-03|19:58:59] RLPx listener up                         self="enode://d2ad6fb116580646a9fa7f86fd4af24779c1a38285230344fb44d3aed3870014bb9739fa02faafb21f9dd9a0d99d65d49dc0aaffd1b935bd8da332e08f267384@[::]:40493?discport=0"
+INFO [04-03|19:58:59] IPC endpoint opened                      url=/usr/work/HelloWorld/testNet/geth.ipc
+INFO [04-03|19:58:59] Starting mining operation 
+INFO [04-03|19:58:59] Commit new mining work                   number=1 txs=0 uncles=0 elapsed=61.06µs
+WARN [04-03|19:58:59] Block sealing failed                     err="waiting for transactions"
+INFO [04-03|19:59:02] Mapped network port                      proto=tcp extport=40493 intport=40493 interface="UPNP IGDv1-PPP1"
+INFO [04-03|20:29:31] IPC endpoint closed                      endpoint=/usr/work/HelloWorld/testNet/geth.ipc
+INFO [04-03|20:29:31] Blockchain manager stopped 
+INFO [04-03|20:29:31] Stopping Ethereum protocol 
+INFO [04-03|20:29:31] Ethereum protocol stopped 
+INFO [04-03|20:29:31] Transaction pool stopped 
+INFO [04-03|20:29:31] Database closed                          database=/usr/work/HelloWorld/testNet/geth/chaindata
+INFO [04-03|20:29:31] whisper stopped 
+INFO [04-03|20:30:46] Maximum peer count                       ETH=25 LES=0 total=25
+INFO [04-03|20:30:49] Using developer account                  address=0xF4861c020F6B253C8BC02dFEd88124504eAEC099
+INFO [04-03|20:30:49] Starting peer-to-peer node               instance=Geth/v1.8.2-stable-b8b9f7f4/linux-386/go1.9.4
+INFO [04-03|20:30:49] Allocated cache and file handles         database=/usr/work/HelloWorld/testNet/geth/chaindata cache=768 handles=512
+INFO [04-03|20:30:49] Persisted trie from memory database      nodes=11 size=2.17kB time=21.985µs gcnodes=0 gcsize=0.00B gctime=0s livenodes=1 livesize=0.00B
+INFO [04-03|20:30:49] Initialised chain configuration          config="{ChainID: 1337 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: 0 EIP155: 0 EIP158: 0 Byzantium: 0 Constantinople: <nil> Engine: clique}"
+INFO [04-03|20:30:49] Initialising Ethereum protocol           versions="[63 62]" network=1
+INFO [04-03|20:30:49] Loaded most recent local header          number=0 hash=0bf2b0…4aed38 td=1
+INFO [04-03|20:30:49] Loaded most recent local full block      number=0 hash=0bf2b0…4aed38 td=1
+INFO [04-03|20:30:49] Loaded most recent local fast block      number=0 hash=0bf2b0…4aed38 td=1
+INFO [04-03|20:30:49] Loaded local transaction journal         transactions=0 dropped=0
+INFO [04-03|20:30:49] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [04-03|20:30:49] Starting P2P networking 
+INFO [04-03|20:30:49] started whisper v.5.0 
+INFO [04-03|20:30:49] Transaction pool price threshold updated price=18000000000
+INFO [04-03|20:30:49] Etherbase automatically configured       address=0xF4861c020F6B253C8BC02dFEd88124504eAEC099
+INFO [04-03|20:30:49] RLPx listener up                         self="enode://d2ad6fb116580646a9fa7f86fd4af24779c1a38285230344fb44d3aed3870014bb9739fa02faafb21f9dd9a0d99d65d49dc0aaffd1b935bd8da332e08f267384@[::]:36423?discport=0"
+INFO [04-03|20:30:49] IPC endpoint opened                      url=/usr/work/HelloWorld/testNet/geth.ipc
+INFO [04-03|20:30:49] Starting mining operation 
+INFO [04-03|20:30:49] Commit new mining work                   number=1 txs=0 uncles=0 elapsed=168.434µs
+WARN [04-03|20:30:49] Block sealing failed                     err="waiting for transactions"
+INFO [04-03|20:30:51] Mapped network port                      proto=tcp extport=36423 intport=36423 interface="UPNP IGDv1-PPP1"
